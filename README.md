@@ -8,3 +8,4 @@ OpenGL  video  player
    3.因为只是写了个Demo所以就大概弄了点东西。具体可以下载代码来看看。
    
    具体图片可在项目跟路径下找那两张截图看看。LTDemo/screenshot1...
+![image](https://github.com/happyzlg51/LTDemo/screenshot2.png)
