@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LTDemo</string>
+    <string name="input_video_url">Please input the video url</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
